@@ -1,0 +1,3 @@
+C:/Users/Logan/CLionProjects/VestigiaAlpha/cmake-build-debug/CMakeFiles/VestigiaAlpha.dir
+C:/Users/Logan/CLionProjects/VestigiaAlpha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Logan/CLionProjects/VestigiaAlpha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
